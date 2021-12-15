@@ -10,6 +10,5 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: podinfo-deploy
+    name: podinfo
   targetNamespace: default
-
